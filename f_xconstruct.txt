@@ -1,0 +1,6 @@
+@safemode:
+
+	No-change destruct/construct spammers.
+default:dirt
+default:dirt_with_grass
+default:desert_sand

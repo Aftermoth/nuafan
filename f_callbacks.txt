@@ -1,0 +1,5 @@
+*	nuafan.demo
+
+		nuafan.demo allows blocks to report alerts they receive to nearby players via chat.
+		You can use this to test your filters.
+
